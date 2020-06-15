@@ -22,5 +22,3 @@ def distance(i, j):
         distance(i, middle)
         print(middle)
         distance(middle, j)
-    
-#add
