@@ -2,7 +2,7 @@ arr = [[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0],[0,0,0,0,0]]
 
 a = [-1,-2,-2,-1,1,2,2,1]
 b = [2,1,-1,-2,-2,-1,1,2]
-count = 0
+count = 0   # Declare a global variable
 
 def tour(i, x, y, q1):
     global count
